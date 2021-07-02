@@ -1,3 +1,4 @@
+This is a fork of https://github.com/napolitano/cordova-plugin-intent
 # Cordova Plugin for accessing the Cordova Intent and handling onNewIntent (Android Only)
 
 __This plugin is not longer maintained.__
